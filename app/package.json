@@ -12,6 +12,12 @@
   "bugs": {
     "url": "app "
   },
+"keywords": [
+    "discord",
+    "Arab bot",
+    "discord bot",
+      "discord.js",
+  ],
   "homepage": "app",
   "dependencies": {
     "express": "^4.17.1",
